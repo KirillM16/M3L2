@@ -132,6 +132,7 @@ python --version
 
 ```bash
 python3 --version
+
 ```
 
 ### Ошибка доступа к базе данных
@@ -147,3 +148,8 @@ GitHub: [https://github.com/KirillM16](https://github.com/KirillM16)
 ## Лицензия
 
 Тип лицензии в проекте не указан.
+
+## Фото
+<img width="670" height="374" alt="Снимок экрана 2026-08-09 185625" src="https://github.com/user-attachments/assets/839c270f-2255-4a52-ad06-eb320ed168d6" />
+
+
